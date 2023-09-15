@@ -19,7 +19,7 @@ git clone https://github.com/JuliaNascF/Desafios_Tecnicos-Cognum.git
 Navegue para a pasta do projeto usando o seguinte comando:
 
 ```bash
-cd Desafio 1
+cd Desafio1
 ```
 
 ### 3: Instale as  Dependências e Execute o Servidor
